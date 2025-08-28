@@ -1,0 +1,32 @@
+{
+  "product_name": "Gold Loan – Secure, Fast, and Affordable",
+  "source_url": "https://bankofmaharashtra.in/gold-loan",
+  "crawled_at": "2025-08-26T10:59:59.967867",
+  "description": "Accessibility Menu",
+  "tables": [
+    {
+      "headers": [
+        "Repayment TypeMarginBullet Repayments (Maximum 12 months)30%In all other cases (TL/CC)25%",
+        "MarginBullet Repayments (Maximum 12 months)30%In all other cases (TL/CC)25%"
+      ],
+      "rows": [
+        [
+          "Bullet Repayments (Maximum 12 months)30%In all other cases (TL/CC)25%",
+          "30%In all other cases (TL/CC)25%",
+          "In all other cases (TL/CC)25%",
+          "25%"
+        ],
+        [
+          "Bullet Repayments (Maximum 12 months)30%In all other cases (TL/CC)25%",
+          "30%In all other cases (TL/CC)25%",
+          "In all other cases (TL/CC)25%",
+          "25%"
+        ],
+        [
+          "In all other cases (TL/CC)25%",
+          "25%"
+        ]
+      ]
+    }
+  ]
+}
